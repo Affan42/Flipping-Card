@@ -1,1 +1,1 @@
-# Flipping-Card
+# This is the code of the flipping card.
